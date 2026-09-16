@@ -263,7 +263,7 @@ To discover which hosts were active within the identified subnet.
 ### Scan Used
 
 ```bash
-nmap -sn <192.168.0.0/24>
+nmap -sn 192.168.0.0/24>
 ```
 
 ### Practical Work
@@ -288,7 +288,7 @@ The scan was performed within my authorized local network environment.
 To determine how many hosts responded during the network scan.
 
 ### Result
-"4"
+"The scan identified 4 active hosts within the scanned subnet."
 The scan results showed the number of active hosts responding within the scanned subnet.
 
 ### Evidence
@@ -321,7 +321,9 @@ To identify the MAC addresses associated with the discovered hosts where availab
 
 ### Result
 
-**[WRITE THE MAC ADDRESSES HERE]**
+192.168.0.108 → 02:41:09:57:C8:2E
+192.168.0.139 → 00:08:22:6C:F2:FB
+192.168.0.254 → 08:40:F3:0F:4B:98
 
 The MAC address information was reviewed from the network scan results.
 
@@ -408,10 +410,7 @@ Screenshots captured during the practical activities are included throughout thi
 12. MAC address results
 13. Zenmap topology
 14. Network topology PDF
-
-**[INSERT ANY ADDITIONAL REPOSITORY/REPORT LINK HERE]**
-
----
+--
 
 # 📁 Repository Structure
 
