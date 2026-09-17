@@ -334,7 +334,8 @@ The MAC address information was reviewed from the network scan results.
 
 *Figure 12,13 — MAC addresses of the discovered hosts.*
 
-Task 13 — Display & Save Network Topology
+## Task 13 — Identify MAC Addresses of Live Hosts
+
 Objective
 
 To visualize the discovered network hosts using Zenmap's topology feature and save the topology output in PDF format.
