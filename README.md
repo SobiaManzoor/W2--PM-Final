@@ -333,6 +333,7 @@ The MAC address information was reviewed from the network scan results.
 <img width="1920" height="891" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_09_09_2026_02_40_53" src="https://github.com/user-attachments/assets/1922cfa7-285d-4cbd-a719-d37552c441e1" />
 
 *Figure 12,13 — MAC addresses of the discovered hosts.*
+
 Task 13 — Display & Save Network Topology
 Objective
 
@@ -349,7 +350,7 @@ Evidence
 <img width="587" height="405" alt="Screenshot 2026-09-17 121024" src="https://github.com/user-attachments/assets/6e82dcf0-d8e1-4481-82b7-66b20b7bad0f" />
 
 
-Figure 13 — Zenmap topology view showing the discovered network.
+Figure 14 — Zenmap topology view showing the discovered network.
 
 ---
 
